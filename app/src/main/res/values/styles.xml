@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToolbarMenuTextTheme" parent="ThemeOverlay.MaterialComponents.Toolbar.Primary">
+        <item name="android:textColorPrimary">#000000</item> <!-- Toolbar title -->
+        <item name="actionMenuTextColor">#000000</item>      <!-- Overflow menu text -->
+    </style>
+
+
+</resources>
